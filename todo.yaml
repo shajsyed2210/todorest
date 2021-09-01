@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: todo-container
-        image: shajsyed2210/todo:4
+        image: shajsyed2210/todo:3
         ports:
         - containerPort: 8080
